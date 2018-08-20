@@ -45,3 +45,26 @@ D:\code\Enlish Note\Enlish Note\obj\Debug\Enlish Note.pdb
 D:\github\English_Note\Enlish Note\bin\Debug\Enlish Note.exe.config
 D:\github\English_Note\Enlish Note\obj\Debug\Enlish Note.exe
 D:\github\English_Note\Enlish Note\obj\Debug\Enlish Note.pdb
+D:\github\English_Note\Enlish Note\bin\Debug\Enlish Note.exe
+D:\github\English_Note\Enlish Note\bin\Debug\Enlish Note.pdb
+D:\github\English_Note\Enlish Note\bin\Debug\MySql.Data.dll
+D:\github\English_Note\Enlish Note\bin\Debug\MySql.Data.Entity.EF5.dll
+D:\github\English_Note\Enlish Note\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\github\English_Note\Enlish Note\bin\Debug\MySql.Fabric.Plugin.dll
+D:\github\English_Note\Enlish Note\bin\Debug\MySql.Web.dll
+D:\github\English_Note\Enlish Note\bin\Debug\Newtonsoft.Json.dll
+D:\github\English_Note\Enlish Note\bin\Debug\DevComponents.DotNetBar2.xml
+D:\github\English_Note\Enlish Note\bin\Debug\Newtonsoft.Json.xml
+D:\github\English_Note\Enlish Note\obj\Debug\Enlish Note.csprojResolveAssemblyReference.cache
+D:\github\English_Note\Enlish Note\obj\Debug\Enlish Note.csproj.Enlish Note.exe.config
+D:\github\English_Note\Enlish Note\obj\Debug\Enlish_Note.uControl.ucExam.resources
+D:\github\English_Note\Enlish Note\obj\Debug\Enlish_Note.Defect.resources
+D:\github\English_Note\Enlish Note\obj\Debug\Enlish_Note.Add.resources
+D:\github\English_Note\Enlish Note\obj\Debug\Enlish_Note.Change.resources
+D:\github\English_Note\Enlish Note\obj\Debug\Enlish_Note.CheckedSheet.resources
+D:\github\English_Note\Enlish Note\obj\Debug\Enlish_Note.英语词汇记录.resources
+D:\github\English_Note\Enlish Note\obj\Debug\Enlish_Note.FailedForm.resources
+D:\github\English_Note\Enlish Note\obj\Debug\Enlish_Note.Youdao.resources
+D:\github\English_Note\Enlish Note\obj\Debug\Enlish_Note.ProgressForm.resources
+D:\github\English_Note\Enlish Note\obj\Debug\Enlish_Note.Properties.Resources.resources
+D:\github\English_Note\Enlish Note\obj\Debug\Enlish Note.csproj.GenerateResource.Cache

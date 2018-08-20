@@ -28,5 +28,10 @@ namespace Enlish_Note
                     temp.NG_Word.Date, temp.NG_Word.English, temp.NG_Word.Chinese, temp.NG_Answer);
             }
         }
+
+        private void FailedForm_FormClosing(object sender, FormClosingEventArgs e)
+        {
+           
+        }
     }
 }

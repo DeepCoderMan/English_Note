@@ -194,6 +194,7 @@ namespace Enlish_Note.uControl
 
                 FailedForm form = new FailedForm(_listFailed);
                 form.ShowDialog();
+                _listFailed.Clear();
             }
         }
 

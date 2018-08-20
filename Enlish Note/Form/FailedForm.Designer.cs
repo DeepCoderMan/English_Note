@@ -50,6 +50,7 @@
             this.Controls.Add(this.textBox1);
             this.Name = "FailedForm";
             this.Text = "Failed";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FailedForm_FormClosing);
             this.Load += new System.EventHandler(this.FailedForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

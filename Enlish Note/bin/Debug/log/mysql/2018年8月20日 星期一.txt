@@ -1,0 +1,16 @@
+2018\8\20 星期一 22:47:08  [op]:  - - - - - - - - 数据库系统开始初始化 - - - - - - -
+2018\8\20 星期一 22:47:08  [op]:  加载本地数据：server = 85.10.205.173; User Id = aliyaduo; password = qing19870404; Database = test_db_1;Old Guids=true;
+2018\8\20 星期一 22:47:35  [op]:  数据库连接异常：Timeout in IO operation
+2018\8\20 星期一 22:48:23  [op]:  - - - - - - - - 数据库系统开始初始化 - - - - - - -
+2018\8\20 星期一 22:48:23  [op]:  加载本地数据：server = 85.10.205.173; User Id = aliyaduo; password = qing19870404; Database = test_db_1;Old Guids=true;
+2018\8\20 星期一 22:48:44  [op]:  数据库连接异常：Timeout in IO operation
+2018\8\20 星期一 23:00:27  [op]:  - - - - - - - - 数据库系统开始初始化 - - - - - - -
+2018\8\20 星期一 23:00:27  [op]:  加载本地数据：server = 85.10.205.173; User Id = aliyaduo; password = qing19870404; Database = test_db_1;Old Guids=true;
+2018\8\20 星期一 23:00:45  [op]:  数据库连接成功
+2018\8\20 星期一 23:19:03  [op]:  数据上传到数据库失败
+Fatal error encountered during command execution.
+2018\8\20 星期一 23:19:13  [op]:  数据上传到数据库失败
+Connection must be valid and open.
+2018\8\20 星期一 23:26:00  [op]:  - - - - - - - - 数据库系统开始初始化 - - - - - - -
+2018\8\20 星期一 23:26:00  [op]:  加载本地数据：server = 85.10.205.173; User Id = aliyaduo; password = qing19870404; Database = test_db_1;Old Guids=true;
+2018\8\20 星期一 23:26:21  [op]:  数据库连接异常：Timeout in IO operation

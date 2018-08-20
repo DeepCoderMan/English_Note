@@ -1,0 +1,47 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Enlish Note\Enlish Note\bin\Debug\Enlish Note.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Enlish Note\Enlish Note\bin\Debug\Enlish Note.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Enlish Note\Enlish Note\bin\Debug\Enlish Note.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Enlish Note\Enlish Note\bin\Debug\Newtonsoft.Json.dll
+c:\users\administrator\documents\visual studio 2015\Projects\Enlish Note\Enlish Note\bin\Debug\Newtonsoft.Json.xml
+c:\users\administrator\documents\visual studio 2015\Projects\Enlish Note\Enlish Note\obj\Debug\Enlish Note.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Enlish Note\Enlish Note\obj\Debug\Enlish_Note.英语词汇记录.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Enlish Note\Enlish Note\obj\Debug\Enlish_Note.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Enlish Note\Enlish Note\obj\Debug\Enlish Note.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\Enlish Note\Enlish Note\obj\Debug\Enlish Note.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Enlish Note\Enlish Note\obj\Debug\Enlish Note.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Enlish Note\Enlish Note\obj\Debug\Enlish_Note.Add.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Enlish Note\Enlish Note\obj\Debug\Enlish_Note.Change.resources
+F:\软件备份\项目代码\C#\Enlish Note\Enlish Note\bin\Debug\Enlish Note.exe.config
+F:\软件备份\项目代码\C#\Enlish Note\Enlish Note\obj\Debug\Enlish Note.exe
+F:\软件备份\项目代码\C#\Enlish Note\Enlish Note\obj\Debug\Enlish Note.pdb
+F:\软件备份\项目代码\C#\Enlish Note\Enlish Note\bin\Debug\Enlish Note.exe
+F:\软件备份\项目代码\C#\Enlish Note\Enlish Note\bin\Debug\Enlish Note.pdb
+F:\软件备份\项目代码\C#\Enlish Note\Enlish Note\bin\Debug\Newtonsoft.Json.dll
+F:\软件备份\项目代码\C#\Enlish Note\Enlish Note\bin\Debug\Newtonsoft.Json.xml
+F:\软件备份\项目代码\C#\Enlish Note\Enlish Note\obj\Debug\Enlish_Note.Add.resources
+F:\软件备份\项目代码\C#\Enlish Note\Enlish Note\obj\Debug\Enlish_Note.Change.resources
+F:\软件备份\项目代码\C#\Enlish Note\Enlish Note\obj\Debug\Enlish_Note.英语词汇记录.resources
+F:\软件备份\项目代码\C#\Enlish Note\Enlish Note\obj\Debug\Enlish_Note.Properties.Resources.resources
+F:\软件备份\项目代码\C#\Enlish Note\Enlish Note\obj\Debug\Enlish Note.csproj.GenerateResource.Cache
+F:\软件备份\项目代码\C#\Enlish Note\Enlish Note\obj\Debug\Enlish_Note.Defect.resources
+F:\软件备份\项目代码\C#\Enlish Note\Enlish Note\obj\Debug\Enlish_Note.CheckedSheet.resources
+F:\软件备份\项目代码\C#\Enlish Note\Enlish Note\bin\Debug\DevComponents.DotNetBar.Layout.dll
+F:\软件备份\项目代码\C#\Enlish Note\Enlish Note\bin\Debug\DevComponents.DotNetBar2.dll
+F:\软件备份\项目代码\C#\Enlish Note\Enlish Note\bin\Debug\DevComponents.DotNetBar2.xml
+F:\软件备份\项目代码\C#\Enlish Note\Enlish Note\obj\Debug\Enlish_Note.uControl.ucExam.resources
+F:\软件备份\项目代码\C#\Enlish Note\Enlish Note\obj\Debug\Enlish Note.csprojResolveAssemblyReference.cache
+F:\软件备份\项目代码\C#\Enlish Note\Enlish Note\obj\Debug\Enlish_Note.FailedForm.resources
+F:\软件备份\项目代码\C#\Enlish Note\Enlish Note\obj\Debug\Enlish_Note.Youdao.resources
+F:\软件备份\项目代码\C#\Enlish Note\Enlish Note\bin\Debug\MySql.Data.dll
+F:\软件备份\项目代码\C#\Enlish Note\Enlish Note\bin\Debug\MySql.Data.Entity.EF5.dll
+F:\软件备份\项目代码\C#\Enlish Note\Enlish Note\bin\Debug\MySql.Data.Entity.EF6.dll
+F:\软件备份\项目代码\C#\Enlish Note\Enlish Note\bin\Debug\MySql.Fabric.Plugin.dll
+F:\软件备份\项目代码\C#\Enlish Note\Enlish Note\bin\Debug\MySql.Web.dll
+F:\软件备份\项目代码\C#\Enlish Note\Enlish Note\obj\Debug\Enlish Note.csproj.Enlish Note.exe.config
+F:\软件备份\项目代码\C#\Enlish Note\Enlish Note\obj\Debug\Enlish_Note.ProgressForm.resources
+D:\code\Enlish Note\Enlish Note\bin\Debug\Enlish Note.exe.config
+D:\code\Enlish Note\Enlish Note\obj\Debug\Enlish Note.exe
+D:\code\Enlish Note\Enlish Note\obj\Debug\Enlish Note.pdb
+D:\github\English_Note\Enlish Note\bin\Debug\Enlish Note.exe.config
+D:\github\English_Note\Enlish Note\obj\Debug\Enlish Note.exe
+D:\github\English_Note\Enlish Note\obj\Debug\Enlish Note.pdb
